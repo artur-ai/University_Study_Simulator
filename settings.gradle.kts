@@ -1,0 +1,1 @@
+rootProject.name = "University_Study_Simulator"
